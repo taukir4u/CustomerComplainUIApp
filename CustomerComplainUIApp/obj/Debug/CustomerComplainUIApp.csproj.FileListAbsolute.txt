@@ -1,0 +1,9 @@
+H:\Taukir\CustomerComplainUIApp\CustomerComplainUIApp\bin\Debug\CustomerComplainUIApp.exe.config
+H:\Taukir\CustomerComplainUIApp\CustomerComplainUIApp\bin\Debug\CustomerComplainUIApp.exe
+H:\Taukir\CustomerComplainUIApp\CustomerComplainUIApp\bin\Debug\CustomerComplainUIApp.pdb
+H:\Taukir\CustomerComplainUIApp\CustomerComplainUIApp\obj\Debug\CustomerComplainUIApp.csprojResolveAssemblyReference.cache
+H:\Taukir\CustomerComplainUIApp\CustomerComplainUIApp\obj\Debug\CustomerComplainUIApp.Form1.resources
+H:\Taukir\CustomerComplainUIApp\CustomerComplainUIApp\obj\Debug\CustomerComplainUIApp.Properties.Resources.resources
+H:\Taukir\CustomerComplainUIApp\CustomerComplainUIApp\obj\Debug\CustomerComplainUIApp.csproj.GenerateResource.Cache
+H:\Taukir\CustomerComplainUIApp\CustomerComplainUIApp\obj\Debug\CustomerComplainUIApp.exe
+H:\Taukir\CustomerComplainUIApp\CustomerComplainUIApp\obj\Debug\CustomerComplainUIApp.pdb
